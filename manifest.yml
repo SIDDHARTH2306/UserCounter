@@ -1,8 +1,8 @@
 applications:
--	path: .
-	memory: 128M
-	instances: 1
-	domain: au-syd.bluemix.net
-	name: EcadPipeline23
-	host: EcadPipeline23
-	disk_quote: 1024M
+- path: .
+  memory: 128M
+  instances: 1
+  domain: au-syd.bluemix.net
+  name: EcadPipeline23
+  host: EcadPipeline23
+  disk_quote: 1024M
