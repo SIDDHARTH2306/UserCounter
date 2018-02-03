@@ -1,0 +1,7 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  name: EcadPipeline23
+  host: EcadPipeline23
+  disk_quote: 1024M
